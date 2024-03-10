@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Team-Project/imges"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "demo-slider"
+	}
+}

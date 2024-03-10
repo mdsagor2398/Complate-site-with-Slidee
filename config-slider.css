@@ -82,5 +82,6 @@
 @media only screen and (max-width: 767px) {
     .owl-theme .owl-dots .owl-dot span {
         margin: 5px 5px;
+        
     }
 }
