@@ -13,7 +13,7 @@ $(document).ready(function () {
                 nav: false,
             },
             600: {
-                items: 5,
+                items: 2,
                 nav: false,
             },
             1000: {
@@ -39,18 +39,18 @@ $(document).ready(function () {
         responsiveClass: true,
         autoplay: 50,
         nav: false,
-        
+
         responsive: {
             0: {
-                items: 3,
+                items: 1,
                 nav: false,
             },
-            600: {
-                items: 5,
+            678: {
+                items: 2,
                 nav: false,
             },
             1000: {
-                items: 4,
+                items: 3,
                 nav: false,
                 margin: 30,
             },
